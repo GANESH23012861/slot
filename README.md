@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+````
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -131,7 +131,7 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
+````
 ## OUTPUT
 ![Screenshot 2024-03-22 144238](https://github.com/GANESH23012861/slot/assets/147139861/51d52198-503e-4a07-b673-260f6b5eab49)
 
